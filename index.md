@@ -1,1 +1,1 @@
-What video games doe Prof Politz play?
+What video games does Prof Politz play?
