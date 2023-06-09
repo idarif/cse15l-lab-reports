@@ -47,3 +47,10 @@
    - git push
   
   ![image](lab4ssPushFail.png)
+  i then tried 
+  - `git remote set-url origin https://github.com/idarif/Lab-Report-4.git`
+  -  then typed `git status` to check
+  -  then typed `git push` 
+  -  after i did those commands the push worked
+
+   ![image](lab4SSPushWrk.png)
