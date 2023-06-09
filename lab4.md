@@ -41,4 +41,9 @@
   - and got this
   ![image](lab4SSKeySteps.png)
   then when i tried pushing i got these errors
+  after i typed 
+   - git remote add origin https://github.com/idarif/Lab-Report-4.git
+   - git push origin main
+   - git push
+  
   ![image](lab4ssPushFail.png)
